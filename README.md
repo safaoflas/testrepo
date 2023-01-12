@@ -1,2 +1,2 @@
 # testrepo
-test amaçlı
+test amaçlı yazılan bir havuzdur.
